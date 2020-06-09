@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://Wavay:Bikes@devconnector-i5can.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "mysecrettoken",
+	"githubClientId": "618e592fad12ecf73349",
+	"githubSecret": "4db9ac973815e58b7b316eac652b1fcc399ddb9f"
+}
